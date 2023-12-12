@@ -1,0 +1,14 @@
+C:\Users\fabri\OneDrive\Documentos\Calculator\bin\Debug\net7.0\Calculator.exe
+C:\Users\fabri\OneDrive\Documentos\Calculator\bin\Debug\net7.0\Calculator.deps.json
+C:\Users\fabri\OneDrive\Documentos\Calculator\bin\Debug\net7.0\Calculator.runtimeconfig.json
+C:\Users\fabri\OneDrive\Documentos\Calculator\bin\Debug\net7.0\Calculator.dll
+C:\Users\fabri\OneDrive\Documentos\Calculator\bin\Debug\net7.0\Calculator.pdb
+C:\Users\fabri\OneDrive\Documentos\Calculator\obj\Debug\net7.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabri\OneDrive\Documentos\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\fabri\OneDrive\Documentos\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfo.cs
+C:\Users\fabri\OneDrive\Documentos\Calculator\obj\Debug\net7.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\fabri\OneDrive\Documentos\Calculator\obj\Debug\net7.0\Calculator.dll
+C:\Users\fabri\OneDrive\Documentos\Calculator\obj\Debug\net7.0\refint\Calculator.dll
+C:\Users\fabri\OneDrive\Documentos\Calculator\obj\Debug\net7.0\Calculator.pdb
+C:\Users\fabri\OneDrive\Documentos\Calculator\obj\Debug\net7.0\Calculator.genruntimeconfig.cache
+C:\Users\fabri\OneDrive\Documentos\Calculator\obj\Debug\net7.0\ref\Calculator.dll
